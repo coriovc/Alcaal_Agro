@@ -55,41 +55,40 @@
                     <!-- Nav Start -->
                     <div class="classynav">
                       <ul id="nav">
-                        <li class="dropdown has-megamenu classynav-lang">
-                            <a key="item-2" class="item-menu meg-b" href="#">
+                        <li class="dropdown has-megamenu head-lang">
+                            <a key="item-1" class="item-menu meg-b" href="About.html">
                               <i class="arrow_right-up icon-link-m d-inline-block d-xl-none"></i>About</a>
                             <div class="dropdown-menu megamenu active-b">
-                              <div class="row">
-                                
-                                <div class="col-lg-5"></div>
-                                        
+                              <div class="row">                                
+                                <div class="col-lg-5"></div>                                        
                                 <div class="col megamenu-li-about">                                  
                                   <ul class="link">
-                                      <li><a key="item-2-a" class="link" href="About.html">
-                                        <i class="arrow_right-up icon-zise mr-2"></i>Agroindustries</a></li>
-                                      <li><a key="item-2-b" class="link" href="About-team.html">
+                                      <li class="head-lang"><a key="item-1-a" class="link" href="About.html">
+                                        <i class="arrow_right-up icon-zise mr-2"></i>About us</a></li>
+                                      <li class="head-lang"><a key="item-1-b" class="link" href="About-team.html">
                                         <i class="arrow_right-up icon-zise mr-2"></i>Our Team</a></li>         
-                                    </ul>
+                                  </ul>
                                 </div>
                               </div> 
                             </div>
                         </li>
-                        <li class="classynav-lang"><a key="item-3" class="item-menu" href="Services.html">
+                        <li class="head-lang"><a key="item-2" class="item-menu" href="Services.html">
                             <i class="arrow_right-up icon-link-m d-inline-block d-xl-none"></i>Services</a></li>
-                        <li class="classynav-lang"><a key="item-5" class="item-menu current-item" href="Contact.html">
+                        <li class="head-lang"><a key="item-3" class="item-menu" href="Contact.html">
                             <i class="arrow_right-up icon-link-m d-inline-block d-xl-none"></i>Contact</a></li>
 
                       </ul>
-                            <div class="lang-b ml-4 d-none d-xl-flex classynav-lang">
+                            <div class="lang-b ml-4 d-none d-xl-flex head-lang">
                                 <a id="lang" class="btn uza-btn btn-lang langClass" key="btn-lang" data-lang="es">ESP</a>
                             </div>
                         
                         <div class="d-block d-xl-none">
-                            <hr>
+                            <hr class="mb-4" >
                             <label class="switch-lang">
                               <input class="langClass" type="checkbox" data-lang="es">
                               <div></div>
                             </label>
+                            <hr class="mt-4" >
                         </div>
                     </div>
                     <!-- Nav End -->
@@ -139,35 +138,52 @@
     <!-- ***** Footer Area Start ***** -->
     <footer class="footer-area">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-between d-flex d-xl-none">
+              <div class="col-5 col-sm-4 col-lg-3">
+                    <img src="img/logo-white.svg" alt="" width="180">
+              </div>
+              <div class="col-6 col-sm-5 col-lg-2">
+                <div class="single-footer-widget">                      
+                    <div class="row footer-social-info mb-4 text-right footer"> 
+                        <p key="text-sn-mov" class="sub mb-2 mr-2">Social<br>networks</p>                           
+                        <a href="#"><i class="fa fa-linkedin"></i></a>       
+                        <label class="switch-lang-foo">
+                            <input class="langClass" type="checkbox" data-lang="es">
+                            <div></div>
+                        </label>                     
+                    </div>
+                </div>
+              </div> 
+            </div>
+            <div class="row justify-content-center">
                 <!-- Single Footer Widget -->
-                <div class="col-4 col-sm-4 col-lg-3">
+                <div class="col-5 col-sm-4 col-lg-3 d-none d-xl-block">
                     <img src="img/logo-white.svg" alt="" width="180">
                 </div>                
-                <hr class="footer-line">
+                <hr class="footer-line d-none d-xl-flex">
                 <!-- Single Footer Widget -->
-                <div class="col-4 col-sm-4 col-lg-3">
+                <div class="col-5 col-sm-4 col-lg-3">
                     <div class="single-footer-widget">
                         <!-- Nav -->
                         <nav>
                             <ul class="our-link">
                                 <li class="footer"><i class="arrow_right-up icon-zise mr-2"></i>
-                                  <a key="link-text-2" href="About.html">About</a></li>
+                                  <a key="link-text-1" href="About.html">About</a></li>
                                 <li class="footer"><i class="arrow_right-up icon-zise mr-2"></i>
-                                  <a key="link-text-3" href="Services.html">Services</a></li>
+                                  <a key="link-text-2" href="Services.html">Services</a></li>
                                 <li class="footer"><i class="arrow_right-up icon-zise mr-2"></i>
-                                  <a key="link-text-4" href="Contact.html">Contact</a></li>
+                                  <a key="link-text-3" href="Contact.html">Contact</a></li>
                             </ul>
                         </nav>
                     </div>
                 </div>
                 <hr class="footer-line">          
                 <!-- Single Footer Widget -->
-                <div class="col-4 col-sm-4 col-lg-3">
+                <div class="col-5 col-sm-4 col-lg-3">
                   <div class="single-footer-widget">                        
                         <!-- Footer Content -->
                         <div class="footer-content mb-15 footer">
-                            <p key="hola-1" class="sub">Postal Address</p>
+                            <p key="info-text-1" class="sub">Postal Address</p>
                             <p>Av. del Libertador 7766 • 12  01<br> C1429BMX • CABA • Argentina</p>
                         </div>
                         <div class="footer-content mb-15">
@@ -175,17 +191,17 @@
                             <p>info@alcaal.com</p>
                         </div>
                         <div class="footer-content mb-15 footer">
-                            <p key="hola-2" class="sub">Phone</p>
+                            <p key="info-text-2" class="sub">Phone</p>
                             <p>+ 54 11 4519 0477</p>
                         </div>
                   </div>
                 </div>
-                <hr class="footer-line">
+                <hr class="footer-line d-none d-xl-flex">
                 <!-- Single Footer Widget -->
-                <div class="col-4 col-sm-4 col-lg-2">
+                <div class="col-5 col-sm-4 col-lg-2 d-none d-xl-flex">
                     <div class="single-footer-widget">                      
-                        <div class="footer-social-info mb-4"> 
-                            <p class="sub mb-2">Social networks</p>                           
+                        <div class="footer-social-info mb-4 footer"> 
+                            <p key="text-sn" class="sub mb-2">Social networks</p>                           
                             <a href="#"><i class="fa fa-linkedin"></i></a>       
                             <label class="switch-lang-foo">
                               <input class="langClass" type="checkbox" data-lang="es">
@@ -202,7 +218,9 @@
 
     <!-- ******* All JS Files ******* -->
     <!-- jQuery js -->
-    <script src="js/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" ></script>
+    <script src="js/langChange.js"></script>
+    <script src="js/jquery.min.js"></script>    
     <script src="js/jquery.easing.min.js"></script>    
     <script src="js/jquery.validate.js"></script>
 
@@ -221,8 +239,8 @@
     <script>
       AOS.init({
           easing: 'ease-in-out-sine',
-          duration: 900,
-          once: false
+          duration: 1000,
+          once: true
         });
     </script>
 </body>

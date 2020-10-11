@@ -325,15 +325,15 @@ input:focus {
     opacity: 0; } }
 /* ::Backtotop*/
 #scrollUp {
-  bottom: 50px;
-  font-size: 30px;
-  line-height: 45px;
-  right: 50px;
-  width: 50px;
+  bottom: 40px;
+  font-size: 25px;
+  line-height: 35px;
+  right: 40px;
+  width: 40px;
   background-color: #8FBC13;
   color: #ffffff;
   text-align: center;
-  height: 50px;
+  height: 40px;
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
   transition-duration: 500ms;
@@ -2759,7 +2759,7 @@ textarea.form-control {
   @media only screen and (max-width: 767px) {
     .single-portfolio-slide {
       width: 100%;
-      height: 200px;
+      height: 180px;
       padding: 0 1rem;
       overflow: hidden; } }
   .single-portfolio-slide.bg {
@@ -2810,15 +2810,19 @@ textarea.form-control {
     padding: 10px 30px; }
     @media only screen and (max-width: 767px) {
       .single-portfolio-slide .overlay-effect {
-        padding: 0 20px; } }
+        padding: 0 20px;
+        top: 1rem;
+        width: 85%; } }
     .single-portfolio-slide .overlay-effect h4 {
       display: block;
       font-weight: 600;
       color: #ffffff;
-      font-size: 2rem; }
+      font-size: 2rem;
+      width: 70%; }
       @media only screen and (max-width: 767px) {
         .single-portfolio-slide .overlay-effect h4 {
-          font-size: 25px; } }
+          font-size: 24px;
+          width: 70%; } }
     .single-portfolio-slide .overlay-effect p {
       margin-bottom: 0;
       line-height: 1.6;
@@ -2847,20 +2851,39 @@ textarea.form-control {
     color: #ffffff;
     opacity: 0;
     visibility: hidden; }
-    @media only screen and (min-width: 992px) and (max-width: 1199px) {
-      .single-portfolio-slide .view-more-btn a {
-        bottom: 30px;
-        width: 40px;
-        height: 40px;
-        line-height: 45px; } }
     @media only screen and (max-width: 767px) {
       .single-portfolio-slide .view-more-btn a {
-        bottom: 30px;
-        width: 40px;
-        height: 40px;
-        line-height: 45px; } }
+        left: 20px;
+        font-size: 15px;
+        min-width: 120px;
+        height: 30px;
+        bottom: 1rem;
+        line-height: 1.9;
+        font-size: 15px; } }
     .single-portfolio-slide .view-more-btn a:focus, .single-portfolio-slide .view-more-btn a:hover {
       background-color: #8FBC13; }
+  .single-portfolio-slide .view-more-btn-plus a {
+    -webkit-transition-duration: 500ms;
+    -o-transition-duration: 500ms;
+    transition-duration: 500ms;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #6AA109;
+    display: inline-block;
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    z-index: 100;
+    text-align: center;
+    line-height: 1.7;
+    font-size: 25px;
+    color: #ffffff;
+    opacity: 1;
+    visibility: visible; }
+    .single-portfolio-slide .view-more-btn-plus a:focus, .single-portfolio-slide .view-more-btn-plus a:hover {
+      background-color: #6AA109;
+      color: #ffffff; }
   .single-portfolio-slide:focus, .single-portfolio-slide:hover {
     -webkit-box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1);
     box-shadow: 0 6px 50px 8px rgba(0, 0, 0, 0.1);
@@ -2881,14 +2904,24 @@ textarea.form-control {
         display: block;
         opacity: 1; }
     .single-portfolio-slide:focus .view-more-btn a, .single-portfolio-slide:hover .view-more-btn a {
-      left: 30px;
+      left: 20px;
       opacity: 1;
       visibility: visible; }
+    .single-portfolio-slide:focus .view-more-btn-plus a, .single-portfolio-slide:hover .view-more-btn-plus a {
+      opacity: 0;
+      visibility: hidden; }
     @media only screen and (max-width: 767px) {
       .single-portfolio-slide:focus .overlay-effect, .single-portfolio-slide:hover .overlay-effect {
-        bottom: 31%; }
+        top: 1rem;
+        width: 100%; }
+        .single-portfolio-slide:focus .overlay-effect h4, .single-portfolio-slide:hover .overlay-effect h4 {
+          font-size: 19px;
+          width: 100%; }
+        .single-portfolio-slide:focus .overlay-effect p, .single-portfolio-slide:hover .overlay-effect p {
+          font-size: 12px; }
       .single-portfolio-slide:focus .view-more-btn a, .single-portfolio-slide:hover .view-more-btn a {
-        left: 30px; } }
+        opacity: 1;
+        visibility: visible; } }
 
 .portfolio-sildes {
   position: relative;

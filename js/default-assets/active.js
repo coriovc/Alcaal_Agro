@@ -43,7 +43,6 @@
             autoplay: true,
             autoplayTimeout: 8000,
             smartSpeed: 1500,
-            responsiveClass:true,  
             nav: true,
             navText: ['<i class="arrow_carrot-left"></i>', '<i class="arrow_carrot-right"></i>']                      
         });

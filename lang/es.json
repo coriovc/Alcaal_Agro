@@ -1,233 +1,137 @@
 {   
     
-    ".classynav-lang":{
-        "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>El Grupo",
-        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Acerca nuestro",
-            "item-2-a" : "El grupo",
-            "item-2-b" : "Nuestro equipo",
-        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Sustentabilidad",
-        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Ubicación",
-        "item-5" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contacto",
+    ".head-lang":{
+        "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Empresa",
+            "item-1-a" : "Sobre nosotros",
+            "item-1-b" : "Nuestro equipo",
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Servicios",
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contacto",
         "btn-lang" : "ENG"
     },
 
-    ".welcome-area-l":{
-        "section_title" : "Conocemos <br> tu industria.",
+    ".welcome-area-lang":{
+        "section_title" : "Conocemos<br>tu agroindustria",
+        "parrafo":"Más de 16 años brindando servicios de diseño, construcción, y administración y consultoría de calidad a nivel global, en toda la cadena de valor agroindustrial"
     },
 
-    ".categories":{
-        "text-1" : "ALCAAL es un grupo internacional que ofrece soluciones innovadoras en los sectores de Agronegocios, Comercio Internacional y Energías Renovables con foco en mercados emergentes."
-    },
+    ".wwd":{
+        "title-1" : "Qué hacemos",
 
-    ".card-indust":{
-        "card-text-1" : "Agroindustria",
-        "card-text-1-p" : "Asesoramiento 360°, que incluye el desarrollo de plantas industriales, forestales, agrícolas y de tierras en más de 10 países.",
-        "card-text-1-mov" : "<span>Asesoramiento 360°, </span>que incluye el desarrollo de plantas industriales, forestales, agrícolas y de tierras en más de 10 países.",
+        "text-1" : "Servicios de gestión y consultoría",
+        "parrafo-1" : "Nuestro equipo altamente calificado participó en una amplia gama de proyectos en América Latina y África.",
         
-        "card-text-2" : "Trade <br> internacional",
-        "card-text-2-p" : "Más de 10 años de experiencia brindando una amplia gama de productos de calidad con excelente servicio y entrega.",
-        "card-text-2-mov" : "<span>Más de 10 años de experiencia</span brindando una amplia gama de productos de calidad con excelente servicio y entrega.",
+        "text-2" : "Desarrollo agrícola",
+        "parrafo-2" : "Nuestro equipo profesional ha desarrollado estudios y proyectos relacionados con la agricultura en varios campos de acción.",
 
-        
-        "card-text-3-p" : "Energía eólica y solar con trayectoria internacional y experiencia en ingeniería.",
-        "card-text-3-mov" : "Energía eólica y solar con trayectoria internacional y experiencia en ingeniería.",
-
-        
-        "card-text-4-p" : "La unidad de Impresión 3D de Alcaal, ALTANA 3D, es el centro de Fabricación Aditiva más grande de Argentina enfocado en el campo médico.",
-        "card-text-4-mov" : "La unidad de Impresión 3D de Alcaal, ALTANA 3D, es el centro de Fabricación Aditiva más grande de Argentina enfocado en el campo médico.",
+        "text-3" : "Ingeniería de PROYECTO",
+        "parrafo-3" : "Equipo de especialistas con más de 40 años de experiencias en el diseño, construcción y explotación de complejos agroindustriales",
 
         "btn-more" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>MÁS INFO"
     },
 
-    ".Know-group":{
-        "text-title" : "Conoce las principales compañías del grupo.",
-        "btn-more" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>MÁS INFO"
-    },
+    ".exper":{
+        "sub-title" : "NUESTRA EXPERIENCIA_",
+        "text-title" : "Por qué Alcaal Agribusiness",
 
-    ".section-2016":{
-        "sub-title" : "UN SOCIO COMERCIAL SERIO<span class=\"line b\"></span>",
-        "text-title" : "Desde 2016, ALCAAL ha participado en <span>transacciones por valor de US $ 100 MM.</span><br> El volumen comercializado en <span>2017 ha sido de 10.000 toneladas.</span>",
-        "btn-2016" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>PERFIL DE LA COMPAÑÍA" 
-    },
+        "text-1" : "Experiencia<br> y trayectoria",
+        "text-1-p" : "Equipo de expertos con +40 años de experiencia.",
 
-    ".philosophy":{
-        "sub-title" : "NUESTRA FILOSOFÍA <span class=\"line p\"></span>",
-        "text-title" : "La responsabilidad social corporativa es <br> el núcleo de la <span class=\"span-infini\">filosofía de Grupos.</span>",
-        "text-pa-1" : "Más de 10 años de actividades y proyectos de voluntariado y sostenibilidad en África y Argentina.",
-        "text-pa-2" : "Desarrollamos y promovemos soluciones sostenibles inspiradas en nuestros valores fundamentales de integridad, diversidad y solidaridad que dan forma a nuestra cultura corporativa y política de responsabilidad social.",
-        "btn-more" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>MÁS INFO"
-    },
+        "text-2" : "Tecnología <br> de primera línea",
+        "text-2-p" : "Tecnología de vanguardia",
 
-    ".our-team":{
-        "sub-title" : "Nuestro Equipo<span class=\"line\"></span>",
-        "text-title" : "ALCAAL tiene +30 profesionales",
-        "text-pa" : "con diversos antecedentes que incluyen ingeniería, negocios, banca de inversión y gestión de inversiones.",
-        "btn-team" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>CONOCE AL EQUIPO"
-    },
+        "text-3" : "Alta <br> calidad",
+        "text-3-p" : "Alta calidad en el diseño, desarrollo y ejecución de proyectos.",
 
-    ".locations":{
-        "sub-title" : "UBICACIÓN<span class=\"line\"></span>",
-        "text-title" : "Fundada en 2016.",
-        "text-pa" : "ALCAAL se ha expandido continuamente alcanzando 4 de los 6 continentes.",
-        "btn-lo" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Ubicación"
+        "text-4" : "Responsabilidad <br> social",
+        "text-4-p" : "la autosuficiencia alimentaria, la sustitución de importaciones, la lucha contra el hambre y la agricultura familiar han sido pilares fundamentales de todos los proyectos.",
+
+        "btn-team" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>CONOCÉ AL EQUIPO"
     },
 
 
+    ".partn":{
+        "sub-title" : "SOCIOS_",
+        "text-title" : "Socios estratégicos",
+        "text-parr" : "Nuestro equipo de expertos se ha asociado con una amplia gama de organizaciones locales e internacionales que van desde gobiernos nacionales y provinciales hasta corporaciones multinacionales, DFI’s y ONG."
+    },
+
+    ".Project":{
+        "text-title" : "¿Tienes un proyecto?",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>HABLEMOS"
+    },
+
+    
     ".footer":{
-        "sub-title" : "CONTACTO <span class=\"line c\"></span>",
-        "btn-send" : "Enviar",
-        "name" :"<input type=\"text\" class=\"form-control\" name=\"name\" placeholder=\"Ingrese su nombre completo\">",
-        "email" :"<input type=\"email\" class=\"form-control\" name=\"email\" placeholder=\"Introduce tu correo electrónico\">",
-        "message" :"<textarea class=\"form-control\" name=\"message\" rows=\"5\" cols=\"80\" placeholder=\"Mensaje\"></textarea>",
+        "text-sn-mov" : "Redes<br>sociales",
+        "text-sn" : "Redes sociales",
         
         "gracias":"¡Muchas gracias!",
         "parrafo-gracias":"El formulario fue enviado con éxito, en un futuro próximo nos contactaremos.",
 
-        "hola-1" : "Direccion postal",
-        "hola-2" : "Teléfono",
 
-        "link-text-1" : "El grupo",
-        "link-text-2" : "Acerca nuestro",
-        "link-text-3" : "Sustentabilidad",
-        "link-text-4" : "Ubicación Contacto",
-        "link-text-5" : "Términos y Condiciones",
-        "link-text-6" : "Política de privacidad"
+        "link-text-1" : "Empresa",
+        "link-text-2" : "Servicios",
+        "link-text-3" : "Contacto",
+
+        "info-text-1" : "Dirección postal",
+        "info-text-2" : "Teléfono"
     },
 
-     ".group-comp":{
-        "parrafo" : "Conoce las principales compañías del grupo.<br>Ofrecemos soluciones innovadoras en los sectores de Agronegocios, Comercio Internacional y Energías Renovables con foco en mercados emergentes."
+    ".about-lang":{
+        "text-title" : "Alcaal Agroindustrial",
+        "text-title-b" : "Tenemos una trayectoria exitosa en servicios relacionados con la agroindustria en más de 12 países y cuatro continentes.",
+        "parrafo-1" : "Brindamos asesoría integral que va desde la selección de tierras productivas y el financiamiento hasta la logística final de los productos procesados.",
+        "parrafo-2" : "Con sede en Buenos Aires, Argentina, ALCAAL Agroindustrial es parte del grupo internacional ALCAAL, enfocado en el desarrollo sustentable de proyectos agroindustriales de alto impacto en economías emergentes.",
+
+        "list-1" : "<i class=\"icon_check\"></i>Investigación de potencial",
+        "list-2" : "<i class=\"icon_check\"></i>Planificación y análisis",
+        "list-3" : "<i class=\"icon_check\"></i>Relevamiento de mercado",
+        "list-4" : "<i class=\"icon_check\"></i>Desarrollo de proyectos",
+        "list-5" : "<i class=\"icon_check\"></i>Producción",
+        "list-6" : "<i class=\"icon_check\"></i>Comercialización",
+
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>CONOCÉ AL EQUIPO"
     },
 
-    ".about-group-hero":{
-        "text-title" : "El<br>grupo",
-        "text-title-M" : "El grupo",
-        "parrafo-1" : "ALCAAL GROUP ofrece servicios en los sectores de Agronegocios, <br>Comercio Internacional, Energías Renovables y <br>Nuevos Negocios; ofreciendo así una solución integral combinando su experiencia<br>en los cuatros sectores.",
-        "parrafo-2" : "ALCAAL GROUP ofrece servicios en los sectores de Agronegocios, Comercio Internacional, Energías Renovables y Nuevos Negocios; ofreciendo así una solución integral combinando su experiencia en los cuatros sectores."
+    ".team-lang":{
+        "text-title" : "Nuestro Equipo -  PERSONAS CLAVES",
+        "text-title-b" : "Nuestro equipo de expertos está conformado por agrónomos, gerentes de proyectos, especialistas financieros, especialistas en sustentabilidad y un equipo comercial.",
+        "parrafo-1" : "Elegir el equipo y los profesionales adecuados para llevar a cabo el proyecto, requiere un conocimiento técnico muy profundo. Nuestro equipo cuenta con las herramientas y el personal necesarios para garantizar el éxito de cada proyecto."
     },
 
-    ".about-group-1":{
-        "sub-title" : "ACERCA DE <span class=\"line a\"></span>",
-        "text-title" : "Desde 2016, ALCAAL ha participado en <span>transacciones por valor de US $ 100 MM.</span><br>El volumen comercializado en <span>2017 ha sido de 10.000 toneladas.</span>",
-        "parrafo-1" : "<span>Nuestro equipo</span> altamente calificado tiene una vasta experiencia en todas y cada una de las etapas de la ejecución de los proyectos. Con oficinas en Buenos Aires, Montevideo, Luanda, San Petersburgo y Dubai, y representantes con una amplia gama de antecedentes y habilidades, ALCAAL Group tiene la capacidad de combinar la cobertura global con la experiencia local para brindar las mejores soluciones a medida para satisfacer las necesidades de nuestros clientes.",
-        "parrafo-2" : "<span>Nuestro equipo altamente especializadas</span> con antecedentes únicos y un historial probado.<br><span>Cobertura global</span> a través de sus oficinas en América Latina y Medio Oriente y a través de sus representantes en Europa y África .",
-        "btn-1" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>CONOCE EL GRUPO",
+    ".Services-lang":{
+        "text-title" : "Qué hacemos",
 
-        "parrafo-3" : "Su <span>estructura ágil</span> y su red global incomparable permiten que <span>ALCAAL</span> aborde situaciones complejas y entregue rápidamente, prácticamente en todas partes.",
-        "parrafo-4" : "<span>Soluciones integradas</span> basadas en la combinación de experiencia en los sectores de Agronegocios, Servicios Financieros, Renovables y Comercio Internacional.",
-        "parrafo-5" : "ALCAAL tiene acceso rápido a capital y capacidad para proporcionar financiamiento de deuda y capital.",
-        "title-2" : "ENTREGAMOS RESULTADOS.",
-        "btn-2" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>HABLEMOS"
+        "card-title-1" : "Gestión y consultoría",
+        "card-parrafo-1" : "Ofrecemos servicios de diseño, construcción, gestión y consultoría para actividades relacionadas con la producción de alimentos, que van desde la selección de tierras hasta el procesamiento y ventas de los productos, incluyendo análisis de riesgo.",
+
+        "card-title-2" : "Desarrollo agrícola",
+        "card-parrafo-2" : "“Según la Asociación Internacional de Fomento, el desarrollo agrícola constituye uno de los medios más importantes para poner fin a la pobreza extrema, impulsar la prosperidad compartida y alimentar a una población que se espera llegue a 9700 millones de habitantes en 2050.",
+          "card-parrafo-2a" : "El crecimiento de la agricultura puede resultar hasta cuatro veces más eficaz que el de otros sectores para elevar los ingresos de los más pobres.",
+          "card-parrafo-2b" : "Nuestro equipo profesional ha desarrollado estudios y proyectos relacionados con la agricultura en varios campos de acción.",
+
+        "card-title-3" : "Ingeniería de Proyecto",
+        "card-parrafo-3" : "Nuestra unidad de negocio de Ingeniería de Proyectos está conformada por un equipo de especialistas con más de 40 años de experiencia en el diseño, construcción y operación de complejos agroindustriales: procesamiento y almacenamiento de granos, extracción de aceite, y puertos agrícolas, entre otros."
+
     },
 
-    ".g-team":{
-        "title-d" : "Nuestro<br>Equipo",
-        "title-m" : "Nuestro Equipo"
-    },
+    
 
-    ".philo-area-lang":{
-        "text-title-D" : "Nuestra<br>filosofia",
-        "parrafo-D" : "Más de 10 años de actividades y proyectos de voluntariado<br> y sostenibilidad en África y Argentina.",
-        "text-title-M" : "Nuestra filosofia",
-        "parrafo-M" : "Más de 10 años de actividades y proyectos de voluntariado y sostenibilidad en África y Argentina."
-    },
+    ".contact-lang":{
+        "text-title" : "Contáctanos",
 
-    ".philosophy-area-lang":{
-        "text-title-1" : "Sustentabilidad",
-        "parrafo-1" : "Creemos en conducir negocios que aporten al desarrollo sustentable  de nuestro entorno. Para ello, trabajamos alineados con el cuidado de la comunidad y del medio ambiente: alentamos a colaboradores, proveedores y clientes a abrazar nuestros principios.",
-        "text-title-2" : "Nuestros valores, en acción",
-        "parrafo-2" : "Apoyamos iniciativas con impacto positivo en educación, empleo, vivienda, salud y desarrollo comunitario. Nuestra estrategia acompaña los Objetivos de Desarrollo Sostenible (ODS) definidos por Naciones Unidas para el milenio."
-    },
+        "sub-title-1":"Dirección postal",
+        "sub-title-2":"Teléfono",
 
-    ".philo-lang-1":{
-        "text-title" : "Fin de la pobreza",
-        
-        "sub-title-1" : "Techo para mi pais (roof for my country)",
-        "parrafo-1" : "ONG presente en 19 países de América Latina. Busca superar la situación de pobreza que viven millones de personas en asentamientos populares a través de programas para la mejora de vivienda precaria.",
-        
-        "sub-title-2" : "El Camino a Jericó",
-        "parrafo-2" : "Organización argentina orientada a asistir a personas en situación de calle a través de hogares de tránsito y hospedaje donde proveen acompañamiento terapéutico y de salud para lograr su recuperación.",
-        
-        "sub-title-3" : "Fundación Progresar",
-        "parrafo-3" : "ONG argentina, presente en Derqui, Pilar. Orientada al desarrollo personal y social a través de programas de educación y de fortalecimiento de la comunidad."
-    },
+        "name" : "<input type=\"text\" class=\"form-control\" name=\"name\" placeholder=\"Ingrese su nombre completo\">",
+        "phone" : "<input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Ingrese su número telefónico\">",
+        "email" : "<input type=\"email\" class=\"form-control\" name=\"email\" placeholder=\"Introduce tu correo electrónico\">",
+        "message" : "<textarea class=\"form-control\" name=\"message\" rows=\"5\" cols=\"80\" placeholder=\"Mensaje\"></textarea>",
 
-    ".philo-lang-2":{
-        "text-title" : "Educación de calidad",
-        
-        "sub-title-1" : "Reciduca Foundation",
-        "parrafo-1" : "ONG argentina que busca disminuir la deserción escolar de la escuela secundaria a través de programas de desarrollo personal y de formación de empleo.",
-        
-        "sub-title-2" : "Fundación Patagonia",
-        "parrafo-2" : "ONG argentina para la formación agro técnica en zonas rurales.",
-        
-        "sub-title-3" : "ESCUELA RIO MUERTO",
-        "parrafo-3" : "Establecimiento educativo en Chaco que recibe alumnos de zonas rurales y vulnerables.",
-
-        "sub-title-4" : "COLEGIO MADRE TERESA",
-        "parrafo-4" : "Institución educativa que recibe a alumnos en condiciones de vulnerabilidad y realiza un acompañamiento integral a sus familias."
-    },
-
-    ".philo-lang-3":{
-        "text-title" : "Salud y bienestar",
-        
-        "sub-title-1" : "HOSPITAL SOLIDARIO AUSTRAL",
-        "parrafo-1" : "Hospital de alta complejidad construido para hacer frente a la emergencia sanitaria del COVID-19. Posee capacidad de 60 camas de terapia intensiva y está destinado a personas vulnerables sin cobertura médica.",
-        
-        "sub-title-2" : "Covid 19 Donation",
-        "parrafo-2" : "Fabricación y donación de 4000 elementos de protección personal (mascaras) para distintas instituciones públicas y privadas del país. De esta manera se pudo proteger al personal de salud para que pueda hacer su trabajo de una manera más segura",
-        "parrafo-2-a" : "Production and donation of 4000 personal protective equipment (face masks) for both public and private institutions in Argentina. In this way, we were able to protect health personnel and improve their safety during work."
-    },
-
-    ".loc-hero-lang":{
-        "text-title-D" : "Alrededor<br>del mundo",
-        "text-title-M" : "Alrededor del mundo",
-        "parrafo" : "ALCAAL se ha ido expandiendo continuamente llegando a 4 de los 6 continentes a través de sus oficinas en Buenos Aires, Montevideo, Luanda, San Petersburgo y Dubai."
-    },
-
-    ".loc-lang":{
-        "sub-title" : "UBICACIONES <span class=\"line a\"></span>",
-        "sub-title-1" : "Direccion postal",
-        "sub-title-2" : "Teléfono"
-    },
-
-    ".loc-lang-contact":{
-        "sub-title" : "CONTACTO <span class=\"line c\"></span>",
-        "title":"¿Con qué podemos ayudar?",
-        "name" : "Nombre completo",
-        "email" : "Correo electrónico",
-        "phone" : "Número de teléfono",
-        "message" : "Mensaje",
         "btn-send" : "ENVIAR",
-        "gracias" : "¡Gracias!",
-        "parrafo-gra" : "Recibimos tu mensaje,<br> te contactaremos pronto."
-    },
-
-    ".New-ven-hero":{
-        "sub-title" : "La unidad de impresión 3D de Alcaal, ALTANA 3D, es la más grande<br>Centro de Fabricación Aditiva en Argentina."
-    },
-
-    ".New-ven-area":{
-        "parrafo-1" : "ALTANA 3D, es el centro de Fabricación Aditiva más grande de Argentina enfocado en el campo médico.<br> Altana 3D trabaja bajo demanda, utilizando tecnología de punta para proporcionar herramientas innovadoras que benefician tanto a los profesionales de la salud como a los pacientes. Su actividad principal es la producción de modelos anatómicos aplicados en la planificación quirúrgica.",
-        "parrafo-2" : "Alcaal Real Estate proporciona soluciones de desarrollo, construcción y administración para bienes raíces comerciales y residenciales de alto nivel. Brindamos soluciones integrales llave en mano para inversores institucionales y de alto patrimonio en Latam y África."
-    },
-
-    ".audana-hero":{
-        "sub-title" : "Comercio internacional y servicios financieros."
-    },
-
-    ".audana-area":{
-        "title" : "<span>Más de 10 años de experiencia</span> brindando una amplia gama de productos de calidad con excelente servicio y entrega.",
-        "parrafo-1" : "Unidad comercial privada que ha logrado el respeto de los socios basado en la consistencia y eficiencia de sus servicios.",
-        "parrafo-2" : "Presente en todas las actividades relacionadas con el comercio internacional: compras, ventas, almacenamiento, agencia exclusiva, trámites administrativos, logísticos y soporte, incluyendo la capacidad para ejecutar sofisticadas operaciones de comercio internacional.",
-        
-        "list-1" : "<i class=\"icon_check\"></i>Comprometidos con brindar servicios y productos de alta calidad.",
-        "list-2" : "<i class=\"icon_check\"></i>Cubriendo la mayoría de los canales comerciales.",
-        "list-3" : "<i class=\"icon_check\"></i>Las entregas a tiempo son nuestra prioridad.",
-        "list-4" : "<i class=\"icon_check\"></i>Trabajando en estrecha colaboración con las principales líneas navieras y proveedores para garantizar una distribución eficaz.",
-        "list-5" : "<i class=\"icon_check\"></i>Satisfacer las necesidades diarias específicas de cada mercado que atravesamos.",
-        "list-6" : "<i class=\"icon_check\"></i>Creando oportunidades de negocio rentables para nuestros clientes."
+        "gracias" : "¡Muchas gracias!",
+        "parrafo-gra" : "El formulario fue enviado con éxito, en un futuro próximo nos contactaremos."
     }
-
 
 
 }

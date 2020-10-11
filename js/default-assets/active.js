@@ -47,19 +47,18 @@
             animateOut: 'fadeOut',            
             nav: false,
             responsiveClass:true,
-            responsive:{
-                0:{
-                    items:1,
-                    nav:true
+            responsive: {
+                0: {
+                    items: 1
                 },
-                600:{
-                    items:3,
-                    nav:false
+                576: {
+                    items: 2
                 },
-                1000:{
-                    items:5,
-                    nav:true,
-                    loop:false
+                992: {
+                    items: 3
+                },
+                1400: {
+                    items: 4
                 }
             }
         })

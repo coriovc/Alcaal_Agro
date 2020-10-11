@@ -86,13 +86,13 @@
             dots: true,
             responsive: {
                 0: {
-                    items: 1
+                    items: 4
                 },
                 576: {
-                    items: 2
+                    items: 4
                 },
                 992: {
-                    items: 3
+                    items: 4
                 },
                 1400: {
                     items: 4
@@ -111,8 +111,8 @@
             margin: 0,
             loop: true,
             autoplay: true,
-            autoplayTimeout: 10000,
-            smartSpeed: 2500,
+            autoplayTimeout: 8000,
+            smartSpeed: 1500,
             nav: true,
             navText: ['<i class="arrow_carrot-left"></i>', '<i class="arrow_carrot-right"></i>'],
             responsiveClass:true,
@@ -121,13 +121,13 @@
                     items: 1
                 },
                 576: {
-                    items: 2
+                    items: 1
                 },
                 992: {
-                    items: 3
+                    items: 1
                 },
                 1400: {
-                    items: 4
+                    items: 1
                 }
             }
         });

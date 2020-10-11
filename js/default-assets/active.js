@@ -46,21 +46,7 @@
             animateIn: 'fadeIn',
             animateOut: 'fadeOut',            
             nav: false,
-            responsiveClass:true,
-            responsive: {
-                0: {
-                    items: 1
-                },
-                576: {
-                    items: 2
-                },
-                992: {
-                    items: 3
-                },
-                1400: {
-                    items: 4
-                }
-            }
+            
         })
         welcomeSlider.on('translate.owl.carousel', function () {
             var layer = $("[data-animation]");
@@ -126,9 +112,24 @@
             loop: true,
             autoplay: true,
             autoplayTimeout: 10000,
-            smartSpeed: 1500,
+            smartSpeed: 2500,
             nav: true,
-            navText: ['<i class="arrow_carrot-left"></i>', '<i class="arrow_carrot-right"></i>']
+            navText: ['<i class="arrow_carrot-left"></i>', '<i class="arrow_carrot-right"></i>'],
+            responsiveClass:true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                576: {
+                    items: 2
+                },
+                992: {
+                    items: 3
+                },
+                1400: {
+                    items: 4
+                }
+            }
         });
     }
 

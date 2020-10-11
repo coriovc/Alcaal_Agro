@@ -1,0 +1,87 @@
+/* *********************************************
+
+[Tables of CSS Content]
+
++ body
+    - 01.0 Reboot CSS
+    - 02.0 Spacing CSS
+    - 03.0 Preloader CSS
+    - 04.0 Heading CSS
+    - 05.0 Backtotop CSS
+    - 06.0 Buttons CSS
+    - 07.0 Header CSS
+    - 08.0 Hero CSS
+    - 09.0 Portfolio CSS
+    - 10.0 Testimonial CSS
+    - 11.0 Newsletter CSS
+    - 12.0 About CSS
+    - 13.0 Service CSS
+    - 14.0 Breadcrumb CSS
+    - 15.0 Blog CSS
+    - 16.0 CTA CSS
+    - 17.0 CFA CSS
+    - 18.0 Team CSS
+    - 19.0 Footer CSS
+    - 20.0 Contact CSS
+  ---------------------------------------------
+  [Font Family: 'Baloo Chettan 2']
+--------------------------------------------- */
+
+/* Import Fonts & All CSS */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@400;500;600;700;800&display=swap');
+@import 'css/bootstrap.min.css';
+@import 'css/animate.css';
+@import 'css/classy-nav.css';
+@import 'css/owl.carousel.min.css';
+@import 'css/magnific-popup.css';
+@import 'css/font-awesome.min.css';
+@import 'css/style.css';
+@import 'css/more.css';
+@import 'css/slider.css';
+
+// **************
+// Utilities
+// **************
+@import "utilities/fonts";
+@import "utilities/variables";
+@import "utilities/responsive";
+@import "utilities/color";
+
+// *************
+// Mixins
+// *************
+
+@import "mixins/flex";
+@import "mixins/miscellaneous";
+
+// **************
+// Stylesheet
+// *************
+@import "reboot";
+@import "spacing";
+@import "preloader";
+@import "backtotop";
+@import "buttons";
+
+@import "companies";
+@import "about";
+@import "team";
+@import "group";
+@import "services";
+@import "locations";
+@import "contact";
+@import "landing";
+@import "legal";
+
+@import "footer";
+@import "others";
+
+
+@import "heading";
+@import "header";
+@import "hero";
+@import "portfolio";
+@import "testimonial";
+@import "newsletter";
+@import "blog";
+

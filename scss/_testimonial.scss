@@ -37,7 +37,14 @@
         left: auto;
         right: 0;
         @media #{$breakpoint-xs} {
-        left: 20rem;
+        left: 21rem;
+        }
+    }
+
+    .owl-prev {
+        left: 0;
+        @media #{$breakpoint-xs} {
+        left: -2rem;
         }
     }
 }

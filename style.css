@@ -3423,7 +3423,12 @@ textarea.form-control {
     right: 0; }
     @media only screen and (max-width: 767px) {
       .testimonial-slides .owl-next {
-        left: 20rem; } }
+        left: 21rem; } }
+  .testimonial-slides .owl-prev {
+    left: 0; }
+    @media only screen and (max-width: 767px) {
+      .testimonial-slides .owl-prev {
+        left: -2rem; } }
 
 .border-line {
   position: relative;
@@ -3594,6 +3599,16 @@ textarea.form-control {
       width: 200px; }
       @media only screen and (max-width: 767px) {
         .sec-partners-area .logo-content .img-partners {
+          width: 100px; } }
+  .sec-partners-area .logo-part {
+    margin: 0 3rem 0 3rem; }
+    @media only screen and (max-width: 767px) {
+      .sec-partners-area .logo-part {
+        margin: 1rem 2rem 0 2rem; } }
+    .sec-partners-area .logo-part .img-partners {
+      width: 200px; }
+      @media only screen and (max-width: 767px) {
+        .sec-partners-area .logo-part .img-partners {
           width: 100px; } }
   .sec-partners-area .container {
     padding: 0; }

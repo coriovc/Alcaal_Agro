@@ -39,6 +39,8 @@
         var testimonialSlide = $('.testimonial-slides');
         testimonialSlide.owlCarousel({
             items: 1,
+            margin: 2,
+            dots: true,
             loop: true,
             autoplay: true,
             autoplayTimeout: 8000,

@@ -131,6 +131,21 @@
         }
     }
 
+    .logo-part{
+        margin: 0 3rem 0 3rem;
+
+        @media #{$breakpoint-xs} {
+        margin: 1rem 2rem 0 2rem;
+        }
+
+        .img-partners{
+            width:200px;
+            @media #{$breakpoint-xs} {
+                width:100px;
+            }
+        }
+    }
+
     .container{
         padding: 0;
         .sec-1{

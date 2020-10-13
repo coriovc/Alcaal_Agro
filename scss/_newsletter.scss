@@ -120,13 +120,13 @@
         margin: 1rem 3rem 0 3rem;
 
         @media #{$breakpoint-xs} {
-        margin: 1rem 2rem 0 2rem;
+        margin: 1rem auto 0 auto;
         }
 
         .img-partners{
             width:200px;
             @media #{$breakpoint-xs} {
-                width:100px;
+                width:140px;
             }
         }
     }

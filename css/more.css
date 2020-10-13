@@ -922,8 +922,8 @@
     padding-top: 15px;
     width: auto;
     margin-top: 4rem;
-    margin-left: 2.5rem;
-    margin-right: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
     height: 11px;
     background: #e0e0e0;
     opacity: 1;
@@ -936,13 +936,21 @@
     }
   }
 
+
+
   .owl-dots .owl-dot {
-    width: 48px;
+    width: 67px;
     height: 15px;
     border-radius: 10px;
     display: inline-block;
     background: transparent;
     margin-top: -1rem
+  }
+
+  @media only screen and (max-width: 375px) {
+      .owl-dots .owl-dot {
+       width: 59px;
+    }
   }
   .owl-dots .owl-dot.active {
     background-color: #6AA109 !important;

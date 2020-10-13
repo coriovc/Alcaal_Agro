@@ -43,6 +43,10 @@
         @media #{$breakpoint-xs} {
         left: 21rem;
         }
+
+        @media #{$breakpoint-iphone} {
+        left: 19rem;
+        }
     }
 
     .owl-prev {

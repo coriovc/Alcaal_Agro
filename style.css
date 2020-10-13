@@ -3410,6 +3410,10 @@ textarea.form-control {
     left: 0;
     z-index: 10;
     line-height: 50px; }
+    @media only screen and (max-width: 767px) {
+      .testimonial-slides .owl-next,
+      .testimonial-slides .owl-prev {
+        top: 30%; } }
     .testimonial-slides .owl-next i,
     .testimonial-slides .owl-prev i {
       font-size: 50px;
@@ -3591,7 +3595,7 @@ textarea.form-control {
     .sec-partners-area {
       padding: 5rem 0 5rem 0; } }
   .sec-partners-area .logo-content {
-    margin: 0 3rem 0 3rem; }
+    margin: 1rem 3rem 0 3rem; }
     @media only screen and (max-width: 767px) {
       .sec-partners-area .logo-content {
         margin: 1rem 2rem 0 2rem; } }

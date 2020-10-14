@@ -6,7 +6,7 @@
             "item-1-b" : "Our Team",
         "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Services",
         "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contact",
-        "btn-lang" : "ESP"
+        "btn-lang" : "<a id=\"lang\" class=\"btn uza-btn btn-lang langClass\" data-lang=\"es\">ESP</a>"
     },
 
     ".welcome-area-lang":{
@@ -37,7 +37,7 @@
         "text-1-p" : "Team of experts with +40 years of expertise.",
 
         "text-2" : "First-line<br>technology",
-        "text-2-p" : "Cutting edge technology",
+        "text-2-p" : "Our systems and aquipments are in constant update",
 
         "text-3" : "High<br>quality",
         "text-3-p" : "High quality and transparency in the design, development and execution of projects.",
@@ -96,8 +96,8 @@
     ".team-lang":{
         "text-title" : "Our team",
         "text-title-b" : "Our professionals include agronomists, project managers, financial specialists, sustainability specialists and a trading team.",
-        "parrafo-1" : "Choosing the right team to carry out the project as well as the right professionals requires very deep technical knowledge. Our team counts with the necessary tools and staff to guarantee success on every project."
-
+        "parrafo-1" : "Choosing the right team to carry out the project as well as the right professionals requires very deep technical knowledge. Our team counts with the necessary tools and staff to guarantee success on every project.",
+        "agrob":"Agribusiness"
     },
 
     ".Services-lang":{
@@ -116,7 +116,10 @@
 
     },
 
-    
+    ".check-lang":{        
+        "check-l":"<input class=\"langClass\" type=\"checkbox\" data-lang=\"es\"><div></div>"
+
+    },
 
     ".contact-lang":{
         "text-title" : "Contact us",

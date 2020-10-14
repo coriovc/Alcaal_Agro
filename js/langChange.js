@@ -9,11 +9,9 @@ $(document).on('click', '.langClass', function() {
   if(lang == "es"){
     $(this).html("ENG");
     $(this).attr('data-lang','en');  
-    $(this).Attr("checked"); 
   }else{
     $(this).html("ESP");
     $(this).attr('data-lang','es');
-    $(this).removeAttr("checked"); 
   }
 });
 

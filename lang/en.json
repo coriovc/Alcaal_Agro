@@ -97,7 +97,9 @@
         "text-title" : "Our team",
         "text-title-b" : "Our professionals include agronomists, project managers, financial specialists, sustainability specialists and a trading team.",
         "parrafo-1" : "Choosing the right team to carry out the project as well as the right professionals requires very deep technical knowledge. Our team counts with the necessary tools and staff to guarantee success on every project.",
-        "agrob":"Agribusiness"
+        "ingagro" : "Agricultural engineer",
+        "ingind" : "Industrial Engineer",
+        "lic" : "Lic. Business Administration"
     },
 
     ".Services-lang":{

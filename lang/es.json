@@ -97,7 +97,9 @@
         "text-title" : "Nuestro Equipo -  PERSONAS CLAVES",
         "text-title-b" : "Nuestro equipo de expertos está conformado por agrónomos, gerentes de proyectos, especialistas financieros, especialistas en sustentabilidad y un equipo comercial.",
         "parrafo-1" : "Elegir el equipo y los profesionales adecuados para llevar a cabo el proyecto, requiere un conocimiento técnico muy profundo. Nuestro equipo cuenta con las herramientas y el personal necesarios para garantizar el éxito de cada proyecto.",
-        "agrob":"Agroindustria"
+        "ingagro" : "Ingeniero Agronomo",
+        "ingind" : "Ingeniero Industrial",
+        "lic" : "Lic. Administración de Empresas"
     },
 
     ".Services-lang":{
